@@ -158,7 +158,7 @@ Notebook 末尾还提供了一个 HTML 拼板可视化（按目录读取图片�
 
 
 ## 致谢
-- 感谢CISC7026[smorad, Morad]老师对本项目的认可，并且给予了 100 分的肯定。
+- 感谢CISC7026[Morad Steven](https://github.com/smorad)老师对本项目的认可，并且给予了 100 分的肯定。
 
 
 ## 许可
