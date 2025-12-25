@@ -1,0 +1,11 @@
+# Core dependencies for GAN / WGAN / WGAN-GP experiments
+# (TensorFlow, Keras, and visualization utilities)
+
+tensorflow>=2.12,<2.16
+numpy
+matplotlib
+tqdm
+
+# Optional (Apple Silicon / macOS acceleration):
+# tensorflow-macos
+# tensorflow-metal
